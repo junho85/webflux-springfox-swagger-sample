@@ -10,10 +10,11 @@ sourceCompatibility = '11'
 
 repositories {
     mavenCentral()
+    jcenter()
 }
 
 ext {
-    springfoxSwaggerVersion = '2.10.0'
+    springfoxSwaggerVersion = '2.10.5'
 }
 
 dependencies {
